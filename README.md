@@ -1,5 +1,3 @@
 - 👋 Ola, eu sou Daniel Moreira
-- 👀 Eu estou interessado em me tornar um desenvolvedor jr.
-- 🌱 Eu atualmente estou estudando Java
-- 📫 Linked.in: https://www.linkedin.com/in/daniel-moreira-887300214/ / Gmail: danielbatistamor@gmail.com
-
+- 👀 Estou Criando alguns projetos em python de acordo com as minhas necessidades e ambições.
+- 🌱 Eu atualmente estou Cursando ADS (2022 - 2025)
