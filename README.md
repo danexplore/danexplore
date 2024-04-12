@@ -1,3 +1,3 @@
 - 👋 Ola, eu sou Daniel Moreira
 - 👀 Estou Criando alguns projetos em python de acordo com as minhas necessidades e ambições.
-- 🌱 Eu atualmente estou Cursando ADS (2022 - 2025)
+- 🌱 Eu atualmente estou Cursando ADS (2023 - 2026)
